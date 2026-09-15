@@ -1,0 +1,15 @@
+C:\Users\evanm\bts-sio2\exercitetp1\bin\Debug\net10.0\exercitetp1.exe
+C:\Users\evanm\bts-sio2\exercitetp1\bin\Debug\net10.0\exercitetp1.deps.json
+C:\Users\evanm\bts-sio2\exercitetp1\bin\Debug\net10.0\exercitetp1.runtimeconfig.json
+C:\Users\evanm\bts-sio2\exercitetp1\bin\Debug\net10.0\exercitetp1.dll
+C:\Users\evanm\bts-sio2\exercitetp1\bin\Debug\net10.0\exercitetp1.pdb
+C:\Users\evanm\bts-sio2\exercitetp1\obj\Debug\net10.0\exercitetp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanm\bts-sio2\exercitetp1\obj\Debug\net10.0\exercitetp1.AssemblyInfoInputs.cache
+C:\Users\evanm\bts-sio2\exercitetp1\obj\Debug\net10.0\exercitetp1.AssemblyInfo.cs
+C:\Users\evanm\bts-sio2\exercitetp1\obj\Debug\net10.0\exercitetp1.csproj.CoreCompileInputs.cache
+C:\Users\evanm\bts-sio2\exercitetp1\obj\Debug\net10.0\exercitetp1.sourcelink.json
+C:\Users\evanm\bts-sio2\exercitetp1\obj\Debug\net10.0\exercitetp1.dll
+C:\Users\evanm\bts-sio2\exercitetp1\obj\Debug\net10.0\refint\exercitetp1.dll
+C:\Users\evanm\bts-sio2\exercitetp1\obj\Debug\net10.0\exercitetp1.pdb
+C:\Users\evanm\bts-sio2\exercitetp1\obj\Debug\net10.0\exercitetp1.genruntimeconfig.cache
+C:\Users\evanm\bts-sio2\exercitetp1\obj\Debug\net10.0\ref\exercitetp1.dll
